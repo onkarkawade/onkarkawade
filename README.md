@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm onkar kawade</h1>
+<h1 align="center">Hi 👋, I'm Onkar Kawade</h1>
 <h3 align="center">Passionate about computer vision and Deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarkawade&label=Profile%20views&color=0e75b6&style=flat" alt="onkarkawade" /> </p>
